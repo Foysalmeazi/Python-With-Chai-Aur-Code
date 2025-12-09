@@ -1,5 +1,4 @@
-
-num_List = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+num_List = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 print(num_List[:])
 print(num_List[2:5])
 print(num_List[3:])
@@ -16,9 +15,9 @@ coffee = "------------Milk"
 print(chai.lower())
 print(chai.upper())
 
-print(coffee.strip('-'))
+print(coffee.strip("-"))
 
-print(chai.replace("Masala", "Honey"));
+print(chai.replace("Masala", "Honey"))
 
-print(chai2.split(" "));
-print(chai2.split(", "));
+print(chai2.split(" "))
+print(chai2.split(", "))
