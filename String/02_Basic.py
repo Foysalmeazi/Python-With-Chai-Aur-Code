@@ -25,4 +25,10 @@ print(' '.join(playersList))
 for letter in game1:
     print('Total Letter in game1 one is:', letter)
 
+path1 = "C:\\Assignment\\capstone Block 1\\"
+print(path1)
+
+
+
+
 
