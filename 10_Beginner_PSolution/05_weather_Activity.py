@@ -1,13 +1,13 @@
 
-weather = input('Enter the todays weather:').lower()
+distance = input('Enter the todays distance:').lower()
 
-if(weather=='sunny'):
+if(distance=='sunny'):
     print("Go for walking")
-elif(weather=='rainy'):
+elif(distance=='rainy'):
     print("Read a good Book")
-elif(weather=='snowy'):
+elif(distance=='snowy'):
     print("Build a snowman")
-elif(weather=='windy'):
+elif(distance=='windy'):
     print("Fly a Kite")
 else:
     print("Do what you want")
